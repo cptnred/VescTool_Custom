@@ -56,3 +56,9 @@ res/firmwares/*/
 
 # Custom build temporary files
 mobile_original/
+
+# Local documentation (German) - not for GitHub
+README_CUSTOM.md
+UPDATE_FROM_UPSTREAM.md
+mobile_custom/README_MOBILE_CUSTOM.md
+CUSTOM_FEATURES_GUIDE.md
