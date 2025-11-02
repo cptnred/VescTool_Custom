@@ -62,3 +62,13 @@ README_CUSTOM.md
 UPDATE_FROM_UPSTREAM.md
 mobile_custom/README_MOBILE_CUSTOM.md
 CUSTOM_FEATURES_GUIDE.md
+
+# Architecture-specific build folders
+arm64-v8a/
+armeabi-v7a/
+x86/
+x86_64/
+
+# Qt build artifacts
+release/
+debug/
